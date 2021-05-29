@@ -2,12 +2,12 @@
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-# 👋🏼Hi, I'm Jorge Alberto Gomez Gomez!. 
+# 👋🏼Hi, I'm Jorge Alberto Gomez Gomez!.
 
-###  Voy a ser iOS developer algún día. 
+###  One day I'll be a software developer because I'm passionate about coding.
 
 
-💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
+💪🏼 I'm currently studying Computer Systems Engineering.
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
 * HTML
