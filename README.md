@@ -10,18 +10,19 @@
 💪🏼 I'm currently studying Computer Systems Engineering.
 
 🕵 I have self-taught programming languages and tools such as: 
-* HTML                 * Kotlin
-* CSS
 * JavaScript
 * Python
+* Java
 * Android
+* Kotlin
+* React
+* Svelte
+* Flutter
+* Golang
+* HTML                 
+* CSS
 
-💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
- Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
- 
-🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
-
-👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS y leer.
+👩🏻 Among my hobbies are: coding, reading, watching series and movies, playing games on the PC and studying the technologies that appeal to me the most.
 
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
