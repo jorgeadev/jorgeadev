@@ -37,9 +37,9 @@
 
 
 ## 🖤 Get in touch: 
-* ✨ Twitter: https://twitter.com/MajoLedes
-* ✨ Instagram: https://instagram.com/majoledes
-* ✨ CodePen: https://codepen.io/majoledesma
+* ✨ Twitter: https://twitter.com/devvitocode
+* ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
+* ✨ Linkedin: https://www.linkedin.com/in/jorge-alberto-gomez-gomez-024b33131/
 
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
