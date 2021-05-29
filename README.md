@@ -29,7 +29,7 @@
 
 
 
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 
 
