@@ -2,19 +2,19 @@
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-# 👋🏼Hi, I'm Jorge Alberto Gomez Gomez!.
+# 👋🏼 Hi, I'm Jorge Alberto Gomez Gomez!.
 
 ###  One day I'll be a software developer because I'm passionate about coding.
 
 
 💪🏼 I'm currently studying Computer Systems Engineering.
 
-🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
-* HTML
+🕵 I have self-taught programming languages and tools such as: 
+* HTML                 * Kotlin
 * CSS
 * JavaScript
 * Python
-* Framer / Adobe XD
+* Android
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
