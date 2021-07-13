@@ -13,7 +13,7 @@
 * React
 * Svelte
 * Flutter
-* Golang
+* Go
 * HTML                 
 * CSS
 
