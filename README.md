@@ -20,13 +20,6 @@
 👩🏻 Among my hobbies are: coding, reading, watching series and movies, playing games on the PC and studying the technologies that appeal to me the most.
 
 ![Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&hide=contribs,prs&theme=buefy&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorgealbertogomezgomez77)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
 
 ## 🖤 Get in touch: 
