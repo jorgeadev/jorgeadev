@@ -27,9 +27,9 @@
 * ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
 * ✨ Linkedin: https://www.linkedin.com/in/jorge-alberto-gomez-gomez-024b33131/
 
-<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azl397985856)](https://github.com/azl397985856/leetcode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77)](https://github.com/jorgealbertogomezgomez77/leetcode)
 
 ## ヾ(@^▽^@)ノ
 
