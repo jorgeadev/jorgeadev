@@ -47,13 +47,3 @@
 - [力扣加加网站](http://leetcode-solution.cn/) 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgealbertogomezgomez77&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [《算法通关之路》出版啦！](https://lucifer.ren/blog/2021/09/04/leetcode-solution-book/)
-- [github 又出新功能，布局云端 vscode？](https://lucifer.ren/blog/2021/09/02/vscode-dev-codespaces/)
-- [如何搞定不同公司的算法面试？（早早聊分享文字版）](https://lucifer.ren/blog/2021/09/02/zaozaoliao/)
-- [回炉重铸， 91 天见证不一样的自己（第五期）](https://lucifer.ren/blog/2021/08/21/91algo-5/)
-- [你不知道的 LeetCode 技巧（第二篇）](https://lucifer.ren/blog/2021/08/17/ydk-leetcode-2/)
-<!-- BLOG-POST-LIST:END -->
