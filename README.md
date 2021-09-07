@@ -46,7 +46,7 @@
 - [Blog](https://lucifer.ren/blog/)
 - [力扣加加网站](http://leetcode-solution.cn/) 
 
-<img src="https://github-profile-trophy.vercel.app/?username=azl397985856&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=jorgealbertogomezgomez77&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 ## 📕 Latest Blog Posts
 
