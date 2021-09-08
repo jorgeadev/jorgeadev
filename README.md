@@ -11,7 +11,6 @@
 * Android
 * Kotlin
 * React
-* Svelte
 * Flutter
 * Go
 * HTML                 
@@ -33,17 +32,9 @@
 
 ## ヾ(@^▽^@)ノ
 
-- 🔭 I’m currently working on  [91 algorthimn](https://lucifer.ren/blog/2020/10/19/91-algo-2/)
-- 🌱 I’m currently learning psychology
-- 👯 I’m looking to collaborate on 91 team. feel free to reach me: azl397985856@gmail.com
-- 💬 Ask me about frontend, algorthimn, interview etc
-
-##  Follow Me
-
-- [微信公众号 【力扣加加】](https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg) 算法方向
-- [微信公众号 【脑洞前端】](https://tva1.sinaimg.cn/large/007S8ZIlly1gfxro1x125j30oz0dw43s.jpg) 前端方向
-- [知乎](https://www.zhihu.com/people/lu-xiao-13-70)
-- [Blog](https://lucifer.ren/blog/)
-- [力扣加加网站](http://leetcode-solution.cn/) 
+- 🔭 I’m currently working on  [Movie API](https://github.com/jorgealbertogomezgomez77/movie-api)
+- 🌱 I’m currently learning JavaScript wit Node.js
+- 👯 I’m looking to collaborate on team. Feel free to reach me: jorgealbertogomezgomez77@gmail.com
+- 💬 Ask me about frontend, backend, algorthimn, interview etc 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgealbertogomezgomez77&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
