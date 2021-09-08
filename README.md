@@ -18,8 +18,8 @@
 
 👩🏻 Among my hobbies are: coding, reading, watching series and movies, playing games on the PC and studying the technologies that appeal to me the most.
 
-![Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
+<!--![Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&hide=contribs,prs&theme=buefy&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).-->
 
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/devvitocode
