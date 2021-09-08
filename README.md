@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on  [Movie API](https://github.com/jorgealbertogomezgomez77/movie-api)
 - 🌱 I’m currently learning JavaScript wit Node.js
@@ -35,8 +35,3 @@
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgealbertogomezgomez77&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
