@@ -21,7 +21,6 @@
 <!--![Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&hide=contribs,prs&theme=buefy&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).-->
 
-## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/devvitocode
 * ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
 * ✨ Linkedin: https://www.linkedin.com/in/jorge-alberto-gomez-gomez-024b33131/
