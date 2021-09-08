@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorgealbertogomezgomez77&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgealbertogomezgomez77)](https://github.com/jorgealbertogomezgomez77/Rest-API-Node)
 
 - 🔭 I’m currently working on  [Movie API](https://github.com/jorgealbertogomezgomez77/movie-api)
 - 🌱 I’m currently learning JavaScript wit Node.js
