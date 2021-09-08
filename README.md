@@ -36,9 +36,12 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgealbertogomezgomez77&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+| Column 1 Header | Column 2 Header | Column 3 Header |
 
-+ One
-+ Two
-+ Three
-    - Nested One
-    - Nested Two
+| --------------- | --------------- | --------------- |
+
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
