@@ -35,12 +35,14 @@
 </div>
 <hr />
 
-### 👨🏻‍💻 About Me
+<div>
+ ### 👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
 - 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
 - 👯 I’m looking to collaborate on team
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 - 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
+ </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
