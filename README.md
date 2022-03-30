@@ -6,15 +6,12 @@
 💪🏼 I'm currently studying Computer Systems Engineering.
 
 🕵 I have self-taught programming languages and tools such as: 
-* JavaScript
 * Python
 * Java
 * Android
 * Kotlin
-* React
 * Flutter
-* Go
-* HTML                 
+* Go                 
 * CSS
 
 ### Skills 
