@@ -38,10 +38,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
-<div style="margin: auto; margin-bottom: 20px;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
-</div>
 
 ![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev) 
 
