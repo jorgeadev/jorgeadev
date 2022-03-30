@@ -43,7 +43,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
+
+
 
 
 
@@ -51,7 +52,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinasm&show_icons=true&locale=en&theme=tokyonight" alt="rinasm" width="410" /></p>
 
-![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev)
+![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev) 
+[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
 
 <hr>
 
