@@ -26,6 +26,17 @@
 * ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
 * ✨ Linkedin: https://www.linkedin.com/in/jorge-alberto-gomez-gomez-024b33131/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+###👨🏻‍💻 About Me
+- 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
+- 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
+- 👯 I’m looking to collaborate on team
+- 💬 Ask me about frontend, backend, algorthimn, interview etc 
+- 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
+
+<img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 [![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
 
@@ -45,19 +56,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinasm&show_icons=true&locale=en&layout=compact&theme=radical" alt="rinasm" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-###👨🏻‍💻 About Me
-- 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
-- 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
-- 👯 I’m looking to collaborate on team
-- 💬 Ask me about frontend, backend, algorthimn, interview etc 
-- 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
-
-<img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinasm&show_icons=true&locale=en&theme=tokyonight" alt="rinasm" width="410" /></p>
 
