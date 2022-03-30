@@ -37,11 +37,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
-<h1 align="center">Hi 👋, I'm Jorge Gomez, You can call me Rinas.</h1>
+<h1 align="center">Hi 👋, I'm Jorge Gomez, You can call me Jorge.</h1>
 <h3 align="center">A creative software engineer :)</h3>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/albinzr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/albinzr?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
 
 ### Skills 
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
