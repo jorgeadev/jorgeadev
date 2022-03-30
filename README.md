@@ -29,22 +29,21 @@
 * ✨ Instagram: https://www.instagram.com/jorgeadev/
 * ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
-</div>
 <hr />
 
-<div>
  ### 👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
 - 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
 - 👯 I’m looking to collaborate on team
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 - 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
- </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
+</div>
 
 ![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev) 
 
