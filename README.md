@@ -71,14 +71,3 @@
  
 </div>
 <hr>
-
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-- <a href="https://twitter.com/Rinas71618849" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cuongstf" height="20" width="20" /></a>
-- <a href="https://www.linkedin.com/in/rinas-musthafa-760514a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/cuongcoder/" height="20" width="20" /></a>
-- <a href="https://stackoverflow.com/users/10173285/rinas-musthafa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/4595674/albi" height="20" width="20" /></a>
-- <a href="https://www.facebook.com/rinas.musthafa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenmanhcuong.stf" height="20" width="20" /></a>
-- <a href="https://instagram.com/iam_agni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cuong_dev" height="20" width="20" /></a>
-- 
-</p>
