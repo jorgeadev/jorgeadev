@@ -29,11 +29,10 @@
 * ✨ Instagram: https://www.instagram.com/jorgeadev/
 * ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact" alt="jorgeadev" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev" width="410" align="right" />
 
-###👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
 - 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
 - 👯 I’m looking to collaborate on team
