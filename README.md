@@ -29,10 +29,9 @@
 * ✨ Instagram: https://www.instagram.com/jorgeadev/
 * ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact" alt="jorgeadev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en&theme=tokyonight" alt="jorgeadev" width="410" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact" alt="jorgeadev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev" width="410" />
 
 ###👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
