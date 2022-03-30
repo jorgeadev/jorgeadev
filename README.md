@@ -36,19 +36,16 @@
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 - 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&langs_count=8&hide=jupyter%20notebook,java,python&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
-
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgeadev&repo=github-readme-stats)](https://github.com/jorgeadev/github-readme-stats)
 <hr>
 
