@@ -36,7 +36,7 @@
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 - 📫 Feel free to reach me: **jorgealbertogomezgomez77@gmail.com**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&langs_count=8&hide=jupyter%20notebook,java,python&show_icons=true&locale=en&layout=compact" style="max-width: 100%; margin-top: 20px"  height="165" alt="jorgeadev" />
+<p style="max-width: 100%; margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&langs_count=8&hide=jupyter%20notebook,java,python&show_icons=true&locale=en&layout=compact" height="165" alt="jorgeadev" /></P>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" style="max-width: 100%; margin-top: 20px" alt="jorgeadev"  height="165" />
 
