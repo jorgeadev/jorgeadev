@@ -51,9 +51,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinasm&show_icons=true&locale=en&theme=tokyonight" alt="rinasm" width="410" /></p>
 
-<hr>
+https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev
 
+<hr>
  ![Snake animation](https://github.com/Albinzr/snakeMe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 <hr>
