@@ -37,7 +37,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jorgeadev&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
-<h1 align="center">Hi 👋, I'm Rinas Musthafa, You can call me Rinas.</h1>
+<h1 align="center">Hi 👋, I'm Jorge Gomez, You can call me Rinas.</h1>
 <h3 align="center">A creative software engineer :)</h3>
 
 
