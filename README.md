@@ -27,9 +27,9 @@
 <!--[Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).-->
 
-* ✨ Twitter: https://twitter.com/devvitocode
-* ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
-* ✨ Linkedin: https://www.linkedin.com/in/jorge-alberto-gomez-gomez-024b33131/
+* ✨ Twitter: https://twitter.com/jorgeadev
+* ✨ Instagram: https://www.instagram.com/jorgeadev/
+* ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
