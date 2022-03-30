@@ -24,9 +24,6 @@
 
 👩🏻 Among my hobbies are: coding, reading, watching series and movies, playing games on the PC and studying the technologies that appeal to me the most.
 
-<!--[Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).-->
-
 * ✨ Twitter: https://twitter.com/jorgeadev
 * ✨ Instagram: https://www.instagram.com/jorgeadev/
 * ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
@@ -45,15 +42,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinasm&show_icons=true&locale=en&layout=compact&theme=radical" alt="rinasm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinasm&show_icons=true&locale=en&theme=tokyonight" alt="rinasm" width="410" /></p>
 
 ![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev) 
-[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
+
 
 <hr>
 
@@ -61,3 +55,9 @@
  </div>
  
 <hr>
+
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
+[Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
+-->
