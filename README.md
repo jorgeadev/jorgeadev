@@ -5,7 +5,8 @@
 
 💪🏼 I'm currently studying Computer Systems Engineering.
 
-🕵 I have self-taught programming languages and tools such as: 
+🕵 I have self-taught programming languages and tools such as:
+
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -30,8 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinasm&show_icons=true&locale=en&layout=compact&theme=radical" alt="rinasm" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinasm&show_icons=true&locale=en&theme=tokyonight" alt="rinasm" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact&theme=radical" alt="jorgeadev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en&theme=tokyonight" alt="jorgeadev" width="410" /></p>
 
 ###👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
