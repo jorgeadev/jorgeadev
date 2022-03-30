@@ -6,7 +6,6 @@
 💪🏼 I'm currently studying Computer Systems Engineering.
 
 🕵 I have self-taught programming languages and tools such as: 
-### Skills 
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -23,14 +22,10 @@
 ![l](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![l](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
 👩🏻 Among my hobbies are: coding, reading, watching series and movies, playing games on the PC and studying the technologies that appeal to me the most.
 
-[Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).
+<!--[Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats).-->
 
 * ✨ Twitter: https://twitter.com/devvitocode
 * ✨ Instagram: https://www.instagram.com/jorgealbertogomezgo/
