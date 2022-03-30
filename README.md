@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###  👨🏻‍💻 About Me 
+<h2>👨🏻‍💻 About Me</h1> 
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
 - 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
 - 👯 I’m looking to collaborate on team
