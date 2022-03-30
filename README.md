@@ -29,8 +29,8 @@
 * ✨ Instagram: https://www.instagram.com/jorgeadev/
 * ✨ Linkedin: https://www.linkedin.com/in/jorgeadev/
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" width="420" alt="jorgeadev" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" width="420"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
 
 ### 👨🏻‍💻 About Me
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
