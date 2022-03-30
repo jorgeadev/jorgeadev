@@ -41,7 +41,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeadev&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgeadev&show_icons=true&locale=en" alt="jorgeadev"  height="165" />
 
-![l](https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev) 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev" />
 
 
 <hr>
