@@ -32,8 +32,8 @@
 
 ###  👨🏻‍💻 About Me 
 - 🔭 I’m currently working on my [Special Repository](https://github.com/jorgeadev/jorgeadev)
-- 🌱 I’m currently learning JavaScript wit Node.js
-- 👯 I’m looking to collaborate on team. Feel free to reach me: jorgeadev@gmail.com
+- 🌱 I’m currently learning JavaScript wit Node.js, Laravel and React.js
+- 👯 I’m looking to collaborate on team. Feel free to reach me: jorgealbertogomezgomez77@gmail.com
 - 💬 Ask me about frontend, backend, algorthimn, interview etc 
 - 🔭 I’m currently working on **Paypal**
 - 💬 Ask me about **End-to-end Frontend development**
