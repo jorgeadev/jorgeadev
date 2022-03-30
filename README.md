@@ -43,14 +43,13 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev" style="margin: auto; margin-bottom: 20px;" />
 
+<!--
 <hr>
 
  ![Snake animation](https://github.com/Albinzr/snakeMe/blob/output/github-contribution-grid-snake.svg)
  </div>
  
 <hr>
-
-<!--
 [![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jorgeadev?tab=followers)
 [Jorge Alberto Gomez Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeadev&hide=contribs,prs&theme=buefy&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&theme=buefy)](https://github.com/jorgealbertogomezgomez77/github-readme-stats)
