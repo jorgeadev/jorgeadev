@@ -43,7 +43,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeadev" style="margin: auto; margin-bottom: 20px;" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgeadev&repo=github-readme-stats)](https://github.com/jorgeadev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgeadev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <hr>
