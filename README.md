@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jorge Gomez</h1>
 <!-- <h3 align="center">A creative software engineer :)</h3> -->
 
-###  One day I'll be a software developer because I'm passionate about coding.
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-💪🏼 I'm currently studying Computer Systems Engineering.
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 🕵 I have self-taught programming languages and tools such as:
 
