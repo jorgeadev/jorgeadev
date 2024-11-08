@@ -104,6 +104,8 @@
 
 ---
 
+<!--
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/jorgeadev"><img alt="Check out jorge's profile on stardev.io" src="https://stardev.io/developers/jorgeadev/badge/languages/locality.svg" /></a>
+-->
