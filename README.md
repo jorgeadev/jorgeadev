@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Gomez</h1>
 <!-- <h3 align="center">A creative software engineer :)</h3> -->
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=jorgeadev&abbreviated=true&color=green) -->
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
@@ -9,6 +9,18 @@
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+
+---
+
+### Connect With Me:
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jorgeadev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeadev) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jorgeadev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jorgeadev)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgealbertogomezgomez77@gmail.com)
+
+---
 
 🕵 I have self-taught programming languages and tools such as:
 
