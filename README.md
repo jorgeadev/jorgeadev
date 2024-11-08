@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jorge Gomez, You can call me Jorge.</h1>
-<h3 align="center">A creative software engineer :)</h3>
+<h1 align="center">Hi 👋, I'm Jorge Gomez</h1>
+<!-- <h3 align="center">A creative software engineer :)</h3> -->
 
 ###  One day I'll be a software developer because I'm passionate about coding.
 
