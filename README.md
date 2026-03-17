@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge Gomez</h1>
 
-<p align="center" width="300">
+<!-- <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/36772740?s=400&u=5b2edbdf747a20327d65cb48e671e98973d6ed2a&v=4" />
-</p>
+</p> -->
 
 <!--
 <div align="center">
@@ -64,27 +64,27 @@ Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Postgres    | Docker      | Transformers
 ```
 
-## Stats
+
 
 <!-- GitHub Stats Cards - Light/Dark Mode -->
 <div>
 <!-- Light Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height="180em" src="https://github-readme-stats-ri-sean-smals-projects.vercel.app/api?username=jorgeadev&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Ri Sean's GitHub Stats" />
-</a>
+</a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height="180em" src="https://github-readme-stats-ri-sean-smals-projects.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Ri Sean's Top Languages" />
-</a>
+</a> -->
 
 <!-- Dark Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height="180em" src="https://github-readme-stats-ri-sean-smals-projects.vercel.app/api?username=jorgeadev&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Ri Sean's GitHub Stats" />
-</a>
+</a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height="180em" src="https://github-readme-stats-ri-sean-smals-projects.vercel.app/api/top-langs/?username=jorgeadev&layout=compact&langs_count=8&hide=jupyter%20notebook,scss&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only&hide=jupyter%20notebook" alt="Ri Sean's Top Languages" />
-</a>
+</a> -->
 </div>
 
 ## Let's Connect
@@ -102,7 +102,7 @@ I’m always open to collaborating with forward-thinking developers, founders, a
 
 If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4**, or **GPT-5**, let's connect.
 
-- 📫 **Reach me at:** jorgeadevs@gmail.com
+📫 **Reach me at:** jorgeadevs@gmail.com
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeadev&langs_count=8&hide=jupyter%20notebook,python&show_icons=true&locale=en&layout=compact" height="165" alt="jorgeadev" /> -->
 
@@ -112,6 +112,6 @@ If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4**, or **GPT-5
 
 <!-- <a href="https://stardev.io/developers/jorgeadev"><img alt="Check out jorge's profile on stardev.io" src="https://stardev.io/developers/jorgeadev/badge/languages/locality.svg" /></a> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorgeadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
