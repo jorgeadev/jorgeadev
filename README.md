@@ -55,15 +55,18 @@
 
 ## Tech Stack
 
-```
+<!-- ```
 Frontend     | Backend     | Database    | DevOps      | AI/ML
 -------------|-------------|-------------|-------------|-----------------
 TypeScript   | Node.js     | Neon        | AWS         | Claude 4 / GPT-5
 React        | Go          | MongoDB     | Vercel      | AI SDK
 Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Postgres    | Docker      | Transformers
-```
+``` -->
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,mongodb,mysql,git,github,vscode" />
+</p>
 
 
 <!-- GitHub Stats Cards - Light/Dark Mode -->
