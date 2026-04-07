@@ -13,13 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-_Fetching latest activity…_
+**[interview-prep](https://github.com/jorgeadev/interview-prep)**  
+> Repository to host my projects and tasks about my preparation for intervies  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 07, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-_Fetching latest activity…_
+**[whatsapp](https://github.com/jorgeadev/whatsapp)**  
+> Description for WatsApp Reository  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 07, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
