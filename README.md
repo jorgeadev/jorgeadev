@@ -13,16 +13,16 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[interview-prep](https://github.com/jorgeadev/interview-prep)**  
-> Repository to host my projects and tasks about my preparation for intervies  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 07, 2026
+**[bedu](https://github.com/jorgeadev/bedu)**  
+> No description provided.  
+> `HTML` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Apr 07, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
 **[whatsapp](https://github.com/jorgeadev/whatsapp)**  
-> Description for WatsApp Reository  
+> WatsApp Auto Send Message  
 > `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 07, 2026
 <!-- LAST_PROJECT:END -->
 
