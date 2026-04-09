@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[bedu](https://github.com/jorgeadev/bedu)**  
-> No description provided.  
-> `HTML` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Apr 07, 2026
+**[whatsapp](https://github.com/jorgeadev/whatsapp)**  
+> WatsApp Auto Send Message  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 08, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[whatsapp](https://github.com/jorgeadev/whatsapp)**  
-> WatsApp Auto Send Message  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 07, 2026
+**[azul-school-node](https://github.com/jorgeadev/azul-school-node)**  
+> No description provided.  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Apr 08, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
