@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[bedu](https://github.com/jorgeadev/bedu)**  
-> Small Project in BEDU Course  
-> `CSS` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Apr 09, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 10, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[whatsapp](https://github.com/jorgeadev/whatsapp)**  
-> WatsApp Auto Send Message  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 09, 2026
+**[auto-udemy](https://github.com/jorgeadev/auto-udemy)**  
+> A powerful automation tool that streamlines Udemy course enrollment.  Built with Python and JavaScript/Node.js, this project helps students, developers, and lifelong learners automatically enroll in courses without manual intervention.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 10, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
