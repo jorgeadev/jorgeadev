@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
-> Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 10, 2026
+**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
+> Daily Learning - Technologies and Infrastructure News  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 12, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[auto-udemy](https://github.com/jorgeadev/auto-udemy)**  
-> A powerful automation tool that streamlines Udemy course enrollment.  Built with Python and JavaScript/Node.js, this project helps students, developers, and lifelong learners automatically enroll in courses without manual intervention.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 10, 2026
+**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
+> Electron Next.Js Template Repository  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 11, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
