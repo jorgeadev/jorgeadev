@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
-> Daily Learning - Technologies and Infrastructure News  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 12, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 12, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> Electron Next.Js Template Repository  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 11, 2026
+**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
+> Daily Learning - Technologies and Infrastructure News  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 12, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
