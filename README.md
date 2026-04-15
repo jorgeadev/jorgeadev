@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[leetcode-answers](https://github.com/jorgeadev/leetcode-answers)**  
-> Repository to host all the responses to the leetcode challeges  
-> `Python` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 13, 2026
+**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
+> Daily Learning - Technologies and Infrastructure News  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 14, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
-> Daily Learning - Technologies and Infrastructure News  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 13, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 14, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
