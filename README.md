@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[bedu](https://github.com/jorgeadev/bedu)**  
-> Small Project in BEDU Course  
-> `CSS` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Apr 15, 2026
+**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
+> Daily Learning - Technologies and Infrastructure News  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 16, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
-> Daily Learning - Technologies and Infrastructure News  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 15, 2026
+**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
+> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 16, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
