@@ -13,9 +13,9 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[daily-learning](https://github.com/jorgeadev/daily-learning)**  
-> Daily Learning - Technologies and Infrastructure News  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 17, 2026
+**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
+> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Apr 18, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
