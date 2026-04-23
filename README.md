@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[updeps](https://github.com/jorgeadev/updeps)**  
-> Auto detect and install the latest dependencies  
-> `JavaScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Apr 21, 2026
+**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
+> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 Apr 22, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[auto-udemy](https://github.com/jorgeadev/auto-udemy)**  
-> A powerful automation tool that streamlines Udemy course enrollment.  Built with Python and JavaScript/Node.js, this project helps students, developers, and lifelong learners automatically enroll in courses without manual intervention.  
-> `Python` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Apr 21, 2026
+**[updeps](https://github.com/jorgeadev/updeps)**  
+> Auto detect and install the latest dependencies  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Apr 21, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
