@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
-> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 May 12, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 May 13, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 May 12, 2026
+**[updeps](https://github.com/jorgeadev/updeps)**  
+> Auto detect and install the latest dependencies  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 May 13, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
