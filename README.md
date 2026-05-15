@@ -15,15 +15,15 @@
 <!-- CURRENTLY_WORKING_ON:START -->
 **[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
 > Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 May 13, 2026
+> `SCSS` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 May 14, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[updeps](https://github.com/jorgeadev/updeps)**  
-> Auto detect and install the latest dependencies  
-> `JavaScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 May 13, 2026
+**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
+> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 May 14, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
