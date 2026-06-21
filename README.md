@@ -15,15 +15,15 @@
 <!-- CURRENTLY_WORKING_ON:START -->
 **[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
 > The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jun 19, 2026
+> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jun 20, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[node-mailer](https://github.com/jorgeadev/node-mailer)**  
-> 📫 An easy way to send emails with Node.js  
-> `HTML` &nbsp;·&nbsp; ⭐ 5 &nbsp;·&nbsp; 🕒 Jun 19, 2026
+**[updeps](https://github.com/jorgeadev/updeps)**  
+> Auto detect and install the latest dependencies  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Jun 20, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
