@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[movie-api](https://github.com/jorgeadev/movie-api)**  
-> 🎬 A robust, scalable, and fully type-safe backend RESTful API built with Node.js, Express, and MongoDB for efficiently managing movie collections, featuring strict TypeScript typings, an MVC architecture, and an automated testing suite.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 5 &nbsp;·&nbsp; 🕒 Jul 21, 2026
+**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
+> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jul 22, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
-> The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jul 21, 2026
+**[movie-api](https://github.com/jorgeadev/movie-api)**  
+> 🎬 A robust, scalable, and fully type-safe backend RESTful API built with Node.js, Express, and MongoDB for efficiently managing movie collections, featuring strict TypeScript typings, an MVC architecture, and an automated testing suite.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 5 &nbsp;·&nbsp; 🕒 Jul 22, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
