@@ -15,15 +15,15 @@
 <!-- CURRENTLY_WORKING_ON:START -->
 **[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
 > The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jul 22, 2026
+> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jul 23, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[movie-api](https://github.com/jorgeadev/movie-api)**  
-> 🎬 A robust, scalable, and fully type-safe backend RESTful API built with Node.js, Express, and MongoDB for efficiently managing movie collections, featuring strict TypeScript typings, an MVC architecture, and an automated testing suite.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 5 &nbsp;·&nbsp; 🕒 Jul 22, 2026
+**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
+> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 4 &nbsp;·&nbsp; 🕒 Jul 23, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
