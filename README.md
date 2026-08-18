@@ -13,9 +13,9 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Aug 16, 2026
+**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
+> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 19 &nbsp;·&nbsp; 🕒 Aug 17, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
@@ -23,7 +23,7 @@
 <!-- LAST_PROJECT:START -->
 **[the-architects-blueprint](https://github.com/jorgeadev/the-architects-blueprint)**  
 > The Architect's Blueprint: A self-updating repository generating highly technical, premium-tier engineering blogs about system architecture, performance optimization, and viral tech news  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Aug 16, 2026
+> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Aug 17, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
