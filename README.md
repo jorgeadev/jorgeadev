@@ -21,9 +21,9 @@
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Sep 09, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Sep 10, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
