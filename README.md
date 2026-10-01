@@ -15,7 +15,7 @@
 <!-- CURRENTLY_WORKING_ON:START -->
 **[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
 > The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Sep 29, 2026
+> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Sep 30, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
