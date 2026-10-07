@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
-> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 17 &nbsp;·&nbsp; 🕒 Oct 06, 2026
+**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
+> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 06, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 06, 2026
+**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
+> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 17 &nbsp;·&nbsp; 🕒 Oct 06, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
