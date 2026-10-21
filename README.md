@@ -15,15 +15,15 @@
 <!-- CURRENTLY_WORKING_ON:START -->
 **[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
 > Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 19, 2026
+> `SCSS` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 20, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
-> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 14 &nbsp;·&nbsp; 🕒 Oct 19, 2026
+**[node-mailer](https://github.com/jorgeadev/node-mailer)**  
+> 📫 An easy way to send emails with Node.js  
+> `HTML` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 20, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
