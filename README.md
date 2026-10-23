@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
-> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Oct 21, 2026
+**[starloop](https://github.com/jorgeadev/starloop)**  
+> Starloop is a constrained reciprocity-ledger engineering case study: GitHub OAuth, encrypted credentials, transactional credits, and a custom dark Next.js UI. Not operated as a service.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🕒 Oct 22, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
-> Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 8 &nbsp;·&nbsp; 🕒 Oct 21, 2026
+**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
+> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Oct 21, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
