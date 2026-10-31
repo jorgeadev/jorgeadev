@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
-> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 10 &nbsp;·&nbsp; 🕒 Oct 28, 2026
+**[node-send-file](https://github.com/jorgeadev/node-send-file)**  
+> No description provided.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Oct 30, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
-> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Oct 28, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Oct 30, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
