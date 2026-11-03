@@ -13,9 +13,9 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
-> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Nov 01, 2026
+**[movie-api](https://github.com/jorgeadev/movie-api)**  
+> 🎬 A robust, scalable, and fully type-safe backend RESTful API built with Node.js, Express, and MongoDB for efficiently managing movie collections, featuring strict TypeScript typings, an MVC architecture, and an automated testing suite.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 02, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
@@ -23,7 +23,7 @@
 <!-- LAST_PROJECT:START -->
 **[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
 > Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 01, 2026
+> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 02, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
