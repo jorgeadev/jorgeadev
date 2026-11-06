@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
-> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Nov 04, 2026
+**[deviation-lens](https://github.com/jorgeadev/deviation-lens)**  
+> Deviation Lens is a Chrome extension that finds DeviantArt image variants, compares their quality, and helps you download the versions you choose.  
+> `JavaScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 Nov 06, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[deviation-lens](https://github.com/jorgeadev/deviation-lens)**  
-> Deviation Lens is a Chrome extension that finds DeviantArt image variants, compares their quality, and helps you download the versions you choose.  
-> `JavaScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 Nov 04, 2026
+**[node-send-file](https://github.com/jorgeadev/node-send-file)**  
+> No description provided.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 05, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
