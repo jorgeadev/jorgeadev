@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[deviation-lens](https://github.com/jorgeadev/deviation-lens)**  
-> Deviation Lens is a Chrome extension that finds DeviantArt image variants, compares their quality, and helps you download the versions you choose.  
-> `JavaScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 Nov 06, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 09, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[node-send-file](https://github.com/jorgeadev/node-send-file)**  
-> No description provided.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 05, 2026
+**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
+> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 16 &nbsp;·&nbsp; 🕒 Nov 09, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
