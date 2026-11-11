@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
-> Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 09, 2026
+**[movie-api](https://github.com/jorgeadev/movie-api)**  
+> 🎬 A robust, scalable, and fully type-safe backend RESTful API built with Node.js, Express, and MongoDB for efficiently managing movie collections, featuring strict TypeScript typings, an MVC architecture, and an automated testing suite.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 10, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
-> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 16 &nbsp;·&nbsp; 🕒 Nov 09, 2026
+**[node-send-file](https://github.com/jorgeadev/node-send-file)**  
+> No description provided.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 10, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
