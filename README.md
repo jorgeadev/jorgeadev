@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[deviation-lens](https://github.com/jorgeadev/deviation-lens)**  
-> Deviation Lens is a Chrome extension that finds DeviantArt image variants, compares their quality, and helps you download the versions you choose.  
-> `JavaScript` &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; 🕒 Nov 12, 2026
+**[electron-next-template](https://github.com/jorgeadev/electron-next-template)**  
+> The ultimate starter kit for cross-platform desktop apps. Combines the native power of Electron with the developer experience of Next.js 16, fully configured with strict security sandboxing, local static exports, and automated dependency patching.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 10 &nbsp;·&nbsp; 🕒 Nov 16, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
-> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Nov 11, 2026
+**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
+> Repository to host fork developer portfolios  
+> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 16, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
