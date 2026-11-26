@@ -13,17 +13,17 @@
 ## 🔧 Currently Working On
 
 <!-- CURRENTLY_WORKING_ON:START -->
-**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
-> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
-> `TypeScript` &nbsp;·&nbsp; ⭐ 16 &nbsp;·&nbsp; 🕒 Nov 23, 2026
+**[rust-next-template](https://github.com/jorgeadev/rust-next-template)**  
+> GitHub template for cross-platform desktop apps: a Rust core (Tauri 2) behind a Next.js UI exported as a static site. pnpm, Biome, CI and tag-driven releases preconfigured.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🕒 Nov 25, 2026
 <!-- CURRENTLY_WORKING_ON:END -->
 
 ## 📦 Last Project
 
 <!-- LAST_PROJECT:START -->
-**[developer-portfolios](https://github.com/jorgeadev/developer-portfolios)**  
-> Repository to host fork developer portfolios  
-> `SCSS` &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; 🕒 Nov 23, 2026
+**[cutout-studio](https://github.com/jorgeadev/cutout-studio)**  
+> Privacy-first, on-device AI background remover for batch images with model selection, edge refinement, custom backgrounds, and flexible exports.  
+> `TypeScript` &nbsp;·&nbsp; ⭐ 17 &nbsp;·&nbsp; 🕒 Nov 23, 2026
 <!-- LAST_PROJECT:END -->
 
 ## Tech Stack
